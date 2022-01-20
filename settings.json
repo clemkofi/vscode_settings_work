@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "mssql.connections": [
+        {
+            "server": "altnte113",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "reporting",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "altnte113"
+        },
+        {
+            "server": "altnt125",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "reporting",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "altnt125"
+        }
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
